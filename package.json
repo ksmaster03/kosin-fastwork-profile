@@ -1,0 +1,22 @@
+{
+  "name": "kosin-fastwork-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kosin Sangtong's Fastwork profile: bilingual 16:9 showreel (Remotion) plus the profile, portfolio and service texts as published",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render:en": "remotion render src/index.ts Showreel-EN out/kosin-showreel-EN.mp4 --codec=h264 --crf=18 --concurrency=3",
+    "render:th": "remotion render src/index.ts Showreel-TH out/kosin-showreel-TH.mp4 --codec=h264 --crf=18 --concurrency=3"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.486",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.486"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

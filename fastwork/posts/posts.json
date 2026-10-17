@@ -1,0 +1,68 @@
+[
+  {
+    "id": "music",
+    "files": ["music-1.jpg", "music-2.jpg", "music-3.jpg", "music-4.jpg"],
+    "tags": ["Music Production", "Artificial Intelligence"],
+    "caption": "AI music: 10 releases on Spotify as Kosin Finsure.\n\nEvery song was written and produced with AI (ChatGPT for lyrics and direction, Suno for the music), then released through a distributor to Spotify and other streaming platforms.\n\nI also teach this workflow step by step, from the first prompt to a song that is live on Spotify.\n\nListen: open.spotify.com/artist/0ZFQYlXXEDs775TMqjVh66"
+  },
+  {
+    "id": "bi",
+    "files": ["client-bi-1-safe.jpg"],
+    "tags": ["Data Analytics", "Digital Transformation"],
+    "caption": "Executive BI dashboard.\n\nOne page for executives to follow complaint statistics by year, category and channel, with trends they can read in seconds instead of waiting for a monthly report.\n\nThe client's agency name is hidden in this screenshot."
+  },
+  {
+    "id": "expense",
+    "files": ["client-expense-1-safe.jpg", "client-expense-2-safe.jpg"],
+    "tags": ["Web Development", "Digital Transformation"],
+    "caption": "Expense claims and approvals system.\n\nEmployees submit claims with receipts, managers approve them in a clear approval chain, and finance gets reports by cost center and by account. Thai and English, light and dark mode.\n\nClient logo, company name and document numbers are hidden in these screenshots."
+  },
+  {
+    "id": "docai",
+    "files": ["client-docai-1-safe.jpg", "client-docai-2-safe.jpg"],
+    "tags": ["Artificial Intelligence", "Digital Transformation"],
+    "caption": "AI document processing for tax invoices.\n\nUpload a scanned invoice and AI reads the seller, buyer, tax ID, line items and totals, with a confidence score on every field, so staff only check what the AI is unsure about. A dashboard follows volume, the review queue and accuracy day by day.\n\nClient name and real data are hidden in these screenshots."
+  },
+  {
+    "id": "myevent",
+    "files": ["own-myevent.jpg"],
+    "tags": ["Web Development"],
+    "caption": "myEvent: one system for the whole event.\n\nRegistration pages and QR tickets before the event, fast check-in and badge printing at the door, then photos, replays and documents for guests afterwards.\n\nMy own product, live at myevent.press"
+  },
+  {
+    "id": "myweekend",
+    "files": ["own-myweekend.jpg", "own-ebooks.jpg", "mobile-myweekend-1.jpg"],
+    "tags": ["Web Development", "Corporate Training"],
+    "caption": "myWeekend: an online learning platform for working people.\n\nCourses you can actually use at work, a store of AI ebooks and templates, verifiable certificates, and a mobile app. I have written 36 Thai ebooks on AI and technology for it, every one registered with an ISBN at the National Library of Thailand.\n\nMy own product, live at myweekend.fun"
+  },
+  {
+    "id": "training",
+    "files": ["scene-training.jpg", "police-poster.jpg"],
+    "tags": ["Corporate Training", "Claude Code", "Artificial Intelligence"],
+    "caption": "I teach teams to work with AI.\n\n- TAK Products and Services: in-house Claude course plus Claude Team setup for the team.\n- Saensuk Police Station, Chonburi: police officers with no AI background using AI for memos, document summaries and public warnings in one day.\n- Courses: \"Claude AI for Work\" (one full day, five modules, workbook and online certificate exam) and \"Claude Code for Developers\".\n\nEvery class is hands-on: people work on their own laptops and leave with results they can use the next morning."
+  },
+  {
+    "id": "expo",
+    "files": ["scene-speaking.jpg", "mission-stage.jpg"],
+    "tags": ["Artificial Intelligence", "Logistics"],
+    "caption": "Speaking at AI Expo Thailand 2026, Challenger Hall, Muang Thong Thani, 5 November 2026.\n\n14:00 to 15:00, Master Class: \"The Invisible Dispatcher: AI Agents That Run Your Factory and Fleet\".\n\n15:20 to 16:10, ASUS ExpertBook Ultra Showcase: \"Mission Possible: Secure AI for Critical Missions\", on stage with the ASUS Business Thailand team.\n\nCome say hello if you are at the expo."
+  },
+  {
+    "id": "asus",
+    "files": ["scene-asus.jpg"],
+    "tags": ["Artificial Intelligence", "Enterprise resource planning ERP system"],
+    "caption": "Private AI that runs fully offline on one ASUS ExpertBook.\n\nFive AI systems on a single laptop, no internet needed:\n1. ERP (Odoo) running on the laptop\n2. Songs from a Thai prompt\n3. Chat that cites your own documents\n4. Images from a Thai description\n5. A voice assistant that speaks Thai\n\nMeasured on the machine with every service running: 43 tokens per second, 1.7 s to the first spoken word, 8.6 s per image, 31 s to compose a 60-second song.\n\nA good fit for teams whose data cannot leave the building."
+  },
+  {
+    "id": "transform",
+    "files": ["scene-transform.jpg"],
+    "tags": ["Digital Transformation", "Artificial Intelligence", "Project Management"],
+    "caption": "AI Transformation: bring AI into the whole company in 90 days.\n\nThe plan runs 13 weeks in 6 phases, with a review with management at the end of each month:\n1. Prepare (weeks 1-2): set up the team and announce the AI policy\n2. Survey (weeks 3-5): interview the heads of each business function\n3. Set goals (weeks 6-7): 3 to 5 goals per function, with a baseline\n4. Select (week 8): approve the first quick wins\n5. Build (weeks 9-12): deliver quick wins on systems you already own\n6. Measure (week 13): compare with the baseline and plan the next round\n\nIt covers 5 business functions (CMO, COO, CTO, CAO, CFO) and ends with a 6-week AI Champion Challenge, where staff teams show real results on Demo Day."
+  },
+  {
+    "id": "docksync",
+    "files": ["own-docksync-landing.jpg", "client-docksync-2.jpg", "mobile-docksync-2-safe.jpg", "mobile-docksync-1-safe.jpg"],
+    "tags": ["Logistics", "React Native", "Web Development"],
+    "caption": "DockSync: dock appointment and yard management for warehouses.\n\nTrucks book a loading slot, drivers check in with a QR code, and the warehouse team sees every bay on one live timeline. Drivers get a mobile app with push-to-talk radio, so the gate and dock teams can talk without phone calls.\n\nBuilt end to end with AI: web admin (React), driver app (React Native), API (Hono and PostgreSQL), deployed on AWS.\n\nLive at docksync.toptierdigital.space"
+  }
+]

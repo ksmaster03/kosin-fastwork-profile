@@ -1,0 +1,9 @@
+node_modules/
+out/
+bundle/
+public/bgm.wav
+*.env
+.env*
+*.pem
+*.key
+*accessKeys*.csv

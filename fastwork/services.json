@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Custom business systems built with AI: web, mobile app and AWS",
+    "price": "Price on request",
+    "unit": "Project",
+    "linkedPosts": ["docksync", "docai", "expense", "bi"],
+    "tags": ["Web Development", "React Native", "Amazon Web Services AWS software", "Artificial Intelligence", "Digital Transformation"],
+    "description": "I design and build complete business systems with AI, then put them into production on AWS.\n\nWhat you get:\n- A discovery session to map your process and the data you already have\n- A web admin system for your team, plus a mobile app if your staff work in the field\n- An API and a database that you own, deployed on AWS with backups and monitoring\n- Training and a handover document for your team\n\nSystems I have built: dock and yard management with a driver app, field service and repair management, CRM, expense claims with approvals, AI reading of tax invoices, executive BI dashboards, event registration with QR tickets, and an online learning platform.\n\nBackground: 20+ years in enterprise IT, most recently Group IT Manager at BMW Leasing Thailand and BMW Insurance Broker.\n\nThe price depends on scope. Send me your process and I will reply with a plan and a quote."
+  },
+  {
+    "name": "AI Transformation program: bring AI into your whole company in 90 days",
+    "price": "Price on request",
+    "unit": "Project",
+    "linkedPosts": ["transform"],
+    "tags": ["Digital Transformation", "Artificial Intelligence", "Project Management", "IT Consulting"],
+    "description": "A 90-day program that takes your company from \"we should use AI\" to real results, with a clear owner for every week.\n\nHow it runs (13 weeks, 6 phases, with a management review at the end of each month):\n1. Prepare (weeks 1-2): set up the working team and announce an AI policy\n2. Survey (weeks 3-5): interviews and a survey with the heads of each business function\n3. Set goals (weeks 6-7): a company-wide picture, 3 to 5 goals per function, and baseline numbers\n4. Select (week 8): approve the first 2 to 3 quick wins and open the AI Champion Challenge\n5. Build (weeks 9-12): deliver the quick wins on systems you already own, and draft the scope for bigger projects\n6. Measure (week 13): compare against the baseline, share lessons and plan the next round\n\nWhat you get:\n- A map of your core processes across 5 functions (marketing, operations, technology, admin and finance)\n- Quick wins running on tools you already pay for, with no new system to buy\n- An AI use policy your staff can follow\n- A 6-week AI Champion Challenge where staff teams build and present real results on Demo Day\n\nThe price depends on company size and scope. Tell me about your company and I will reply with a proposal."
+  },
+  {
+    "name": "Claude AI and Claude Code training for your team",
+    "price": "From 4,900 THB",
+    "linkedPosts": ["training"],
+    "tags": ["Corporate Training", "Claude Code", "Artificial Intelligence", "Data Analytics"],
+    "packages": [
+      { "name": "Claude Code Basic", "price": 4900, "description": "3 hours, 1 session. Online or on-site anywhere in Thailand." },
+      { "name": "Claude Code for Data Analytics", "price": 6900, "description": "6 hours, 2 sessions. Online or on-site anywhere in Thailand." },
+      { "name": "Claude Code for Developers", "price": 12900, "description": "12 hours, 4 sessions. Online or on-site anywhere in Thailand." }
+    ],
+    "description": "Hands-on Claude training for teams, taught by a former Group IT Manager who uses Claude Code every day to build production systems.\n\nPackages:\n- Claude Code Basic: 3 hours, 1 session\n- Claude Code for Data Analytics: 6 hours, 2 sessions\n- Claude Code for Developers: 12 hours, 4 sessions\n\nClasses run online or on-site anywhere in Thailand. Everyone works on their own laptop and leaves with work they can use the next day.\n\nFor a full in-house day for your company, such as \"Claude AI for Work\" (5 modules, a workbook and an online certificate exam), or a course built around your own processes, message me for a quote.\n\nRecent classes: TAK Products and Services (in-house Claude course and Claude Team setup) and Saensuk Police Station, Chonburi."
+  },
+  {
+    "name": "Make your own song with AI (ChatGPT + Suno) and release it on Spotify",
+    "price": "From 3,000 THB",
+    "linkedPosts": ["music"],
+    "tags": ["Music Production", "Artificial Intelligence", "AI Music"],
+    "packages": [
+      { "name": "Basic", "price": 3000 },
+      { "name": "Advance", "price": 5000 },
+      { "name": "Professional", "price": 8000 }
+    ],
+    "description": "Learn to write, produce and release your own song with AI, in 3 one-hour sessions.\n\nWe go through the full workflow I use for my own releases:\n- Lyrics and song direction with ChatGPT\n- Generating the music with Suno and picking the best take\n- Cover art, then release through a distributor such as DistroKid to Spotify and other streaming platforms\n\nBy the end you have a real song of your own and you know how to make the next one without help.\n\nAbout me: I have released 10 AI-made songs on Spotify as Kosin Finsure.\n\nChoose Basic, Advance or Professional below, and message me if you are not sure which one fits."
+  },
+  {
+    "name": "Private AI that runs offline on your own laptop or server",
+    "price": "Price on request",
+    "unit": "Project",
+    "linkedPosts": ["asus"],
+    "tags": ["Artificial Intelligence", "Data Privacy", "Enterprise resource planning ERP system", "IT Consulting"],
+    "description": "For teams whose data cannot go to the cloud: I set up AI that runs entirely on your own machine, with no internet connection needed.\n\nWhat I can set up, depending on your needs:\n- A chat assistant that answers from your own documents and shows where each answer came from\n- A voice assistant that understands and speaks Thai\n- Image generation from a Thai description\n- Business systems such as ERP running locally, connected to the AI\n\nExample: for the ASUS ExpertBook showcase I ran five of these systems on a single laptop at once. Measured with every service running: 43 tokens per second, 1.7 s to the first spoken word, 8.6 s per image.\n\nI check the license of every model I use, so you only get models that are allowed for commercial use.\n\nThe price depends on your hardware and use case. Tell me what you want the AI to do and I will reply with a plan and a quote."
+  }
+]
